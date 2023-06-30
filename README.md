@@ -1,4 +1,5 @@
 # arduino
+
 This repo contains all the codes for the arduino projects that i have been working on in my school days some of the codes are totally working fine. Also all the projects includes the connection diagram for the project and procedure for acheiving the project completely.
 
 Some of the main projects that i have build are:
@@ -60,7 +61,6 @@ Some of the main projects that i have build are:
    </p>
         </details>
 
-
  <details>
   <summary>
 6. Smart Irrigation System.
@@ -82,4 +82,3 @@ Some of the main projects that i have build are:
         <br/>
 
 Credit: [Jai Shukla](https://github.com/lonewolf-hub)
-
